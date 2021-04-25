@@ -1,6 +1,11 @@
 ### Hi there 👋
 
-![](https://estruyf-github.azurewebsites.net/api/VisitorHit?user=tushardas&repo=tushardas&countColorcountColor&countColor=%32A853)
+[![Visits Badge](https://badges.pufler.dev/visits/tushardas/tushardas)](https://badges.pufler.dev)
+[![Years Badge](https://badges.pufler.dev/years/tushardas)](https://badges.pufler.dev)
+[![Repos Badge](https://badges.pufler.dev/repos/tushardas)](https://badges.pufler.dev)
+[![Updated Badge](https://badges.pufler.dev/updated/tushardas/tushardas)](https://badges.pufler.dev)
+[![Created Badge](https://badges.pufler.dev/created/tushardas/tushardas)](https://badges.pufler.dev)
+[![Commits Badge](https://badges.pufler.dev/commits/monthly/tushardas)](https://badges.pufler.dev)
 
 <!--
 **tushardas/tushardas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
