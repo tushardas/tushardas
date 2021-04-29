@@ -3,8 +3,6 @@
 ![Profile View Counter](https://komarev.com/ghpvc/?username=tushardas)
 [![Years Badge](https://badges.pufler.dev/years/tushardas)](https://badges.pufler.dev)
 [![Repos Badge](https://badges.pufler.dev/repos/tushardas)](https://badges.pufler.dev)
-[![Updated Badge](https://badges.pufler.dev/updated/tushardas/tushardas)](https://badges.pufler.dev)
-[![Created Badge](https://badges.pufler.dev/created/tushardas/tushardas)](https://badges.pufler.dev)
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=tushardas&show_icons=true)
 
