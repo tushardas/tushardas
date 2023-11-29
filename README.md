@@ -14,7 +14,8 @@ Here are some ideas to get you started:
 -->
 - 🏢 I'm currently working in Zopsmart Technology as a Senior Software Engineer
   - Started my career in July 2018 with Oracle
-  - Joined Zopsmart in Feb 2019
+  - Joined Zopsmart in Feb 2019 and decided to part ways, in Jan 2022, with this wonderful startup and people around in order to explore new opportunities and different domains.
+  - Joined Cisco as Software Engineer III in Jan 2022 and have been part of the backend team which works on developing a workflow automation platform.
 
 
 - 🔭 I’m currently working on ...
